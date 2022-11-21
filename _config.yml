@@ -13,15 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
+twitter: "LiteraryMo"
+linkedin: "monicagiulianna"
+github: "mgonzalezburgos"
 instagram: "literary.mo"
-facebook: "#"
 
 
 # Markdown
