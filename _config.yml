@@ -5,7 +5,7 @@ description: Doctoral Student | UCF Texts & Technology PhD Program | If they can
 
 baseurl: /MGBurgos #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: monica.gonzalezburgos@ucf.edu
 
 # Pagination
 paginate: 4
