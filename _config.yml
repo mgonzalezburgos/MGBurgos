@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Monica Giulianna Gonzalez Burgos
+description: Doctoral Student | UCF Texts & Technology PhD Program | If they can pronounce Dostoevsky, they can learn to pronounce your full legal name
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /MGBurgos #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -20,7 +20,7 @@ github: "#"
 researchgate: "#"
 orcid: "#"
 quora: "#"
-instagram: "#"
+instagram: "literary.mo"
 facebook: "#"
 
 
