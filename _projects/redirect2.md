@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Junkies Literarios
-description: Literary Journalism Website
-redirect: https://junkiesliterarios.wordpress.com/
+title: Stage Right Radio Podcast on WAER 88.3 FM
+description: Associate Producer (2017-2018)
+redirect: https://soundcloud.com/stephenshepherdofficial/sets/stage-right-radio-produced
 ---
