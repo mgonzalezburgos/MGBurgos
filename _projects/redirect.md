@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Junkies Literarios
-description: Literary Journalism Website
-redirect: https://junkiesliterarios.wordpress.com/
+title: Empire by Marian Negrón
+description: Content Manager and Consultant
+redirect: https://www.empirebymariannegron.com/
 ---
