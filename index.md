@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: left
-  image: profile.png
+  image: MGGB as Front of House Engineer for Mamma Mia! 2018
 published: true
 ---
 
