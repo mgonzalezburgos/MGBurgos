@@ -133,7 +133,7 @@ Here's a "line block" (note how whitespace is honored):
 
 and images can be specified like so:
 
- ![Book Cover](/MGBurgos/assets/images/usagechart.jpg "Playful Pedagogy")
+ ![Book Cover](/MGBurgos/assets/images/usagechart.jpg "Data of usage by Döring et all 2022")
 
 ![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
 
