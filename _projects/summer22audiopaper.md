@@ -133,7 +133,7 @@ Here's a "line block" (note how whitespace is honored):
 
 and images can be specified like so:
 
-![usagechart](/MGBurgos/assets/images/usagechart.jpg “Usage Chart Data by Döring et al 2022") 
+![usagechart](/MGBurgos/assets/images/usagechart.jpg “Usage chart data")
 
 ![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
 
