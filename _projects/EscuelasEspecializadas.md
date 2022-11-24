@@ -5,9 +5,8 @@ description: First article of investigative journalism series (2017)
 ---
 
 
-### An H3 header ###
 
-   Nota del editor: Hoy damos inicio a una serie investigativa de tres partes en la cual tocaremos las interrogantes a las cuales son sometidos los egresados de la Unidad de Escuelas Especializadas del Departamento de Educación. En el primer reportaje, atendemos lo que son los problemas de seguridad en los planteles de CROEC, Juan J. Osuna, ECEDAO, Escuela Libre de Música Ernesto Ramos Antonini y CROEM.
+      Nota del editor: Hoy damos inicio a una serie investigativa de tres partes en la cual tocaremos las interrogantes a las cuales son sometidos los egresados de la Unidad de Escuelas Especializadas del Departamento de Educación. En el primer reportaje, atendemos lo que son los problemas de seguridad en los planteles de CROEC, Juan J. Osuna, ECEDAO, Escuela Libre de Música Ernesto Ramos Antonini y CROEM.
 
 Ante la situación que enfrenta el país, el sector educativo se ha visto afectado. Con decenas de planteles cerrando, cientos de educadores desempleados, y ahora, cuando el secreto mejor guardado del Departamento de Educación (DE) recibe el mayor impacto, los más perjudicados son los miles de estudiantes que sueñan con un mejor futuro, el cual buscan a través de una enseñanza especializada y de mayor calidad.
 
