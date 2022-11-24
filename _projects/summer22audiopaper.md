@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Storytelling in the digital age; How audio benefits independent authors
+description: Primary Researcher (2022)
 ---
 
 ### by Mónica González Burgos, advised by Dr. Mike Shier ###
