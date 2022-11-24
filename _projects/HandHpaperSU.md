@@ -5,6 +5,7 @@ description: another project
 ---
 
 **ABSTRACT**
+
 Throughout time, the Broadway stage has seen its ups and downs. From the early days of Follies and Oklahoma!, to modern times where works such as The Book of Mormon (TBOM) and Amélie are filled with details that are too hard to miss, some of which hold the power to make or break the production as a whole in a blink of an eye. What makes or breaks a show? If you’re an aspiring producer, this is a question that’ll hunt you on every step of the way. You can have a great story, but if the elements do not transcribe well into musical form, it’s going to be a flop and no one will be able to save it.
 
 For this research, I considered looking into musicals that did not make the cut, but given the obscurity of some of these cases, due to their particular lack of appeal to the general public, I opted instead to research some of the ones that rose above and surpassed all expectations, more specifically, the top musicals within the last two years, Tony Awarded productions Hamilton: An American Musical and Dear Evan Hansen. These shows, between their distinctive topics, their salute to the classics while shining a new light on old techniques, and their widely talented cast and crew members, have broken the stereotype and demonstrated that Broadway shows are more than just sappy show tunes by topping charts and breaking records; and this paper will explore the reasons why.
