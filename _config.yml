@@ -43,12 +43,12 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
+      - summer22audiopaper.md
+      - HandHpaperSU.md
+      - EscuelasEspecializadas.md
       - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - redirect2.md
+      - redirect3.md
 
 sass:
   sass_dir: /assets/css/_sass
